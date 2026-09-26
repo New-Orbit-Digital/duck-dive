@@ -12,6 +12,9 @@ window.TUNE = {
   floatUp: 1100,           // how strongly water pushes the duck back up
   hurtInvincible: 1.5,     // blink time after a hit (no damage during it)
 
+  maxDepth: 380,           // deepest the duck dives / things spawn, below the surface
+                           // (scales with screen size; stops tall phones getting a huge empty ocean)
+
   // ---- Speed -----------------------------------------------
   startSpeed: 180,         // scroll speed at the start
   speedUpPerSecond: 4,     // how much faster it gets every second
