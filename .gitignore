@@ -1,0 +1,9 @@
+# ship only what the game loads (Kenney pack extras stay local)
+assets/Vector/
+assets/PNG/Default/
+assets/Spritesheet/
+assets/Preview.png
+assets/Sample.png
+assets/*.url
+Thumbs.db
+desktop.ini
